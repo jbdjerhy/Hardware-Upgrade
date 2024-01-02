@@ -62,6 +62,7 @@ Testing and Quality Assurance:
 -   Confirm the new CMOS battery's effectiveness in maintaining date and time settings.
 -   Test the performance improvements with the upgraded SSD.
 -   Ensure the successful installation and functionality of the Centos Stream 9 operating system.
+-   ![Think6](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/700c252f-046f-4e98-bded-377cd5e905c1)
 
 Conclusion: This project aims to extend the life and enhance the performance of the Lenovo ThinkPad T430s by addressing hardware limitations, resolving BIOS issues, and installing an updated operating system. The thorough testing and quality assurance processes ensure a reliable and optimized computing experience for the end user.
 
