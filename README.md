@@ -9,6 +9,8 @@ Project Tasks:
 1.  RAM Upgrade:
 
     -   Upgraded the existing RAM from 4GB to 16GB (2x8GB) using a PC3-12800 DDR3L kit.
+    -   ![Think1](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/75897554-5135-49e7-95d7-1eb76433464d)
+
 2.  BIOS Error Resolution:
 
     -   Encountered BIOS error message "0271 Real-Time Clock Error."
@@ -19,6 +21,10 @@ Project Tasks:
 
     -   Identified a defective CMOS battery affecting date and time persistence.
     -   Purchased and replaced the defective CMOS battery with an LJCELL CMOS Battery compatible with Lenovo ThinkPad laptops.
+    -   ![Think2](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/c2229986-24a0-4025-b40c-dcb0767bee08)
+    -   ![Think3](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/9b34e9f2-b41b-44fc-9670-a772d7d15483)
+    -   ![Think4](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/79cf66d7-50af-401a-a792-33660ea3cc4e)
+    -   ![Think5](https://github.com/jbdjerhy/Hardware-Upgrade/assets/142699688/6e66d4e4-093f-4cb6-8b80-196d15d2ef01)
 4.  SSD Upgrade:
 
     -   Upgraded the old 128GB SSD to a Crucial MX500 250GB 3D NAND SATA 2.5-inch SSD with a 9.5mm adapter for improved storage and data access speeds.
@@ -58,3 +64,7 @@ Testing and Quality Assurance:
 -   Ensure the successful installation and functionality of the Centos Stream 9 operating system.
 
 Conclusion: This project aims to extend the life and enhance the performance of the Lenovo ThinkPad T430s by addressing hardware limitations, resolving BIOS issues, and installing an updated operating system. The thorough testing and quality assurance processes ensure a reliable and optimized computing experience for the end user.
+
+
+
+
